@@ -4,6 +4,7 @@ This is supplementary material for the manuscript:
 >"Semantic Segmentation of Pathological Lung Tissue with Dilated Fully Convolutional Networks"
 M. Anthimopoulos, S. Christodoulidis, L. Ebner, A. Christe and S. Mougiakakou
 IEEE Journal of Biomedical and Health infomatics (2018)
+https://arxiv.org/abs/1803.06167
 
 In case of any questions, please do not hesitate to contact us.
 
