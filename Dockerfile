@@ -52,6 +52,7 @@ RUN ldconfig
 
 # Setting up project dependencies
 RUN pip install --upgrade keras==2.1.5
+RUN pip install --upgrade Theano==1.0.1
 
 WORKDIR "/home"
 
