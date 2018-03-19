@@ -41,7 +41,7 @@ Using the bash promt of the container these commands could be used:
 #/ python test.py
 ```
 
-***Important Note:** The demo uses the [Flickr Material database](https://people.csail.mit.edu/celiu/CVPR2010/FMD/) for demontration reasons, no particular effords were made for the optimization of the network for this task.* 
+***Important Note:** The demo uses the [Flickr Material database](https://people.csail.mit.edu/celiu/CVPR2010/FMD/) for demontration reasons, no particular efforts were made for the optimization of the network for this task.* 
 
 ### Output:
 The execution generates a folder for each run, which contains a `.png` file with the architecute of the CNN a log file with the metrics that were used along with the best snapshots of the model while training. The training loss and accuracy are also shown during training.
